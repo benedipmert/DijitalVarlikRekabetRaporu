@@ -1,3 +1,1 @@
 # DijitalVarlikRekabetRaporu
-# Test
-# Test
